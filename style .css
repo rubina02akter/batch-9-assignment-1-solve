@@ -1,0 +1,168 @@
+
+
+
+.merriweather-regular {
+  font-family: "Merriweather", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* header styles*/
+header{
+  background-image:  linear-gradient(180deg,rgb(7,2,17) ,rgba(7,2,17,0)100%), url(images/images/Banner\ Image.png);
+  max-width: 1400px;
+  height: 600px;
+  background-repeat: no-repeat;
+  margin: 50px 140px;
+  border-radius: none;
+}
+.start-title{
+  font-weight: 400;
+  text-align: center; 
+  color: white;
+ padding-top: 177px;
+}
+h1{
+  text-align: center;
+  font-size: 72px;
+  color: #FFFFFF;
+  font-weight: 900;
+}
+/* new year discount styles*/
+.new-year-discount {
+
+}
+.discount{
+  text-align: center;
+}
+.off{
+  font-size: 88px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  color: #FF0000;
+}
+.discount-title{
+  margin-bottom: 0;
+  font-size: 24px;
+  color: #FF0000;
+}
+.discount-iteams{
+  font-size: 30px;
+  color: #070211 ;
+}
+.new-year-pic{
+  width: 800px;
+  height: 500px;
+  margin: 0 258px 120px 258px ;
+}
+/* welcome party styles*/
+.welcome-part{
+  max-width: 1400px;
+  height: 600px;
+  margin: 50px 140px;
+  background-image: linear-gradient(90deg,rgb(7,2,17) ,rgba(7,2,17,0)100%) ,url(images/images/Vectorrr.png);
+}
+.welcome-title{
+  color: rgb(255, 255, 255);
+  margin-left: 100px;
+  margin-top: 130px;
+  letter-spacing: 4px;
+  font-size: 64px;
+}
+.welcome-text{
+  color: rgba(255, 255, 255, 0.8);
+  margin-left: 100px;
+
+}
+.welcome-party{
+  display: flex;
+  justify-content: space-between;
+}
+.vectorr-pic{
+  width: 350px;
+  height: 465px;
+  margin: 108px 68px;
+}
+.welcome-btn{
+  background-color: black;
+  color: #FFFFFF;
+  border: none;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+/* part info styles */
+.party-info{
+  text-align: center;
+  max-width: 1400px;
+  height: 600px;
+  margin: 50px 140px;
+  background-image: linear-gradient(180deg,rgb(251, 152, 152),rgba(255,0,0,0)80%); 
+}
+.party-span{
+ color: #FF0000;
+ font-weight: 600;
+}
+.party-text{
+ font-weight: 600;
+}
+.party-div{
+  padding-top: 200px; 
+}
+.party-button{
+background-color: #FF0000;
+color: #FFFFFF;
+border: none;
+border-radius: 4px;
+padding: 10px 20px;
+margin-top: 10px;
+}
+/* celebration part styles*/
+.celebration{
+   max-width: 1400px;
+    height: 600px;
+    margin: 65px 140px;
+}
+.celebration-container{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0%;
+}
+.celebration-description{
+  width: 350px;
+  height: 250px;
+}
+.ellipse-pic{
+
+    width: 264px;
+    height: 264px;
+}
+.new-year-logo{
+  width: 250px;
+  height: 20px;
+}
+/* holiday styles */
+.holiday-container{
+  text-align: center;
+  margin-left: 390px;
+  margin-right: 390px;
+}
+.magic-box{
+  display: flex;
+  max-width: 1400px;
+  height: 600px;
+  margin: 65px 140px;
+  background-image: url(images/images/Rectangle\ 2.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
+.magic-box-logo{
+  width: 300px;
+  height: 300px;
+  margin-left: 40px;
+  margin-top: 50px;
+}
+.box{
+width: 670px;
+height: 570px;
+margin-left: 100px;
+}
