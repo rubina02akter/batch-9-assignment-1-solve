@@ -132,7 +132,7 @@ margin-top: 10px;
   height: 250px;
 }
 .ellipse-pic{
-
+    
     width: 264px;
     height: 264px;
 }
@@ -165,4 +165,100 @@ margin-top: 10px;
 width: 670px;
 height: 570px;
 margin-left: 100px;
+}
+/* sales iteams styles */
+.sales-iteams{
+  margin-left: 135px ;
+}
+.sales-title{
+  font-size: 48px ;
+  font-weight: 900;
+}
+.sales-description{
+  font-size: 20px;
+  font-weight: 400;
+  color: rgb(135, 133, 133);
+}
+.iteam-pic{
+ width: 420px ;
+ height: 450px;
+ margin: 12px;
+}
+/* subscription part styles */
+.subscription-part{
+  text-align: center;
+  margin-top: 100px;
+  padding-top: 100px;
+}
+.subscription-text{
+  font-size: 20px;
+  font-weight: 400;
+  color: rgb(135, 133, 133);
+  margin-left: 352px;
+  margin-right: 352px;
+}
+.btn-sub{
+  margin-left: 420px;
+  margin-right: 476px;
+  display: flex;
+}
+.btn-sub-1{
+  padding: 10px 200px 10px 20px;
+  border: none ;
+  background-color: #FFFFFF;
+  color: rgb(181, 179, 179);
+  border-radius: 20px 0px 0px 20px;
+}
+.btn-sub-2{
+  border: none ;
+  background-color: #FF0000;
+  color: #FFFFFF;
+  padding: 10px 20px;
+  border-radius: 0px 20px 20px 0px;
+}
+.subscribe-box{
+  background-color: #FF00000D;
+  max-width: 1400px;
+  height: 600px;
+  margin: 65px 140px;
+}
+/* footer styles*/
+footer{
+  padding-top: 5px;
+  height: 500px;
+  background-color: #070211;
+}
+.footer-info{
+  display: flex;
+  justify-content: space-around;
+  color: #FFFFFF;
+  margin: 65px 140px;
+}
+hr{
+  margin-left: 140px;
+  margin-right: 140px;
+}
+.footer-icons{
+  max-width: 1400px;
+  height: 600px;
+  margin-left: 40%;
+  margin-top: 50px;
+  margin-right: 5px;
+  align-items: center;
+  width: 64px;
+  height: 21px;
+  display: flex;
+  margin-bottom: 50px;
+}
+.footer-last-info{
+  display: flex;
+  justify-content: space-between;
+  color: white;
+  max-width: 1400px;
+  margin: 65px 140px;
+}
+.footer-btn{
+  background-color: black;
+  color: #FFFFFF;
+  border: none;
 }
